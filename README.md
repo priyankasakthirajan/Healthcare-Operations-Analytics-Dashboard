@@ -63,18 +63,6 @@ The project uses a sample healthcare dataset containing:
 
 The dataset was created for learning and portfolio purposes.
 
----
-
-## 📸 Dashboard Preview
-
-> Add dashboard screenshots here after uploading.
-
-Example:
-
-![Dashboard](Dashboard.png)
-
----
-
 ## 📁 Repository Structure
 
 ```
